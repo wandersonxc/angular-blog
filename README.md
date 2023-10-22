@@ -1,6 +1,8 @@
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+The repository of Felipe Aguiar, who taught the Angular course at the dio/santander fullstack bootcamp, was used as inspiration:
+https://github.com/felipeAguiarCode/angular-blog
 
 ## Development server
 
